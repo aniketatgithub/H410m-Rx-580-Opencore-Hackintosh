@@ -80,7 +80,10 @@ DOWNLOAD FILES :
 
 
 SM-BIOS (for generating serial Number) : https://gitamin-my.sharepoint.com/:f:/g/personal/121810314010_gitam_in/EulmQIkzvSlKsMq6B5-KAKQBQjNgCnbW8mmgfA2Q4b3lkQ?e=WWwzxN
+
 PROPER TREE(For changing serial Number) : https://gitamin-my.sharepoint.com/:f:/g/personal/121810314010_gitam_in/Eg5_YqxqWrBPnKnl7qGOpVAByM0WYFO2g0sIeLzKv7fqAA?e=YTQdFp
+
 Copy to USB files : https://gitamin-my.sharepoint.com/:f:/g/personal/121810314010_gitam_in/EqaosVFr6-BGnWsZubQKjvkBKAosna_GE-1vSbuXFVJW-A?e=YqYg1V
+
 
 
