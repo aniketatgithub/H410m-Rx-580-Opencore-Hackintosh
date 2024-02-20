@@ -1,7 +1,7 @@
 # H410m-Rx-580-Hackintosh (OPENCORE)
 
 
-Copy and paste to your USB, Boot it ... Mac OS is all yours . Read whole README file for exact specifications that I used :) Happy Hackintoshing
+Copy and paste the files to your USB drive, boot from it, and voila – Mac OS is now yours! Make sure to thoroughly read the entire README file for precise specifications I employed :) Enjoy your Hackintosh experience!
 
 
 ![WhatsApp Image 2021-10-15 at 8 16 56 PM](https://user-images.githubusercontent.com/42694864/137506916-c5b6dfa5-2474-40b7-aced-584d1f2d8869.jpeg)
@@ -9,7 +9,7 @@ Copy and paste to your USB, Boot it ... Mac OS is all yours . Read whole README 
 
 
 
-YOU NEED TO CONFIGURE BIOS . SCREEN SHOT FOR GIGABYTE H410-M ATTACHED : 
+BIOS configuration is essential. Refer to the attached screenshot for Gigabyte H410-M settings.
 
 
 
@@ -23,16 +23,15 @@ YOU NEED TO CONFIGURE BIOS . SCREEN SHOT FOR GIGABYTE H410-M ATTACHED :
 
 
 
-*For my specifications it worked perfectly .... It should work for you too if you have same specs although I am not responsible for crashed OS (always backup IMP files) . 
-My System Specifications : 
-Intel i3 10100f 
-Asus rx 580 8gb OC
-gigabyte h410m H 
-2 x 120GB SSD
-500GB HDD
-2 X 8GB 3200Mhz Ram
-Deep Cool Cpu cooler
-550W Cooler Master
+*The specified configurations worked flawlessly for my system. It should also be compatible with your setup if you share the same specifications. However, please note that I cannot be held responsible for any operating system crashes, so always backup important files. Here are my system specifications:
+- Intel i3 10100f
+- Asus RX 580 8GB OC
+- Gigabyte H410M H
+- 2 x 120GB SSD
+- 500GB HDD
+- 2 x 8GB 3200MHz RAM
+- Deep Cool CPU cooler
+- 550W Cooler Master*
 
 
 A HUGE  THANKS TO HACKINTOSH COMMUNITY . 
@@ -49,11 +48,9 @@ Tutorials that I used :
 https://www.youtube.com/watch?v=j-Cm30I_DEw&t=156s
 https://www.youtube.com/watch?v=KV9AsF95QwU
 
-All ports , Apple services (iMessage , FaceTime , App Store) Works Perfectly . Remeber to change Serial Number of Plist otherwise your Apple ID may Get Blocked
-Serial number can be generated via SM-BIOS and Plist can be edited via Proper Tree (Donwload link LINKED DOWN AT BOTTOM ) 
+All ports and Apple services such as iMessage, FaceTime, and the App Store function flawlessly. However, it's crucial to change the Serial Number in the Plist to avoid potential issues with your Apple ID being blocked. You can generate a serial number through SM-BIOS, and for editing the Plist, use Proper Tree (Download link provided at the bottom).
 
-*I could not get my bluetooth,wifi working although ethernet port works like chram and you can stream audio via apps to phone then to earphones* 
-- You can easily get it working by copying kexts to your kext folder inside OS folder .  
+*While I couldn't successfully enable Bluetooth and Wi-Fi, the Ethernet port works smoothly, allowing for audio streaming from applications to your phone and then to earphones.* To resolve this, simply copy the necessary kexts to your kext folder inside the OS directory.
 
 
 Well Finally you can game in MAC OS:) 
@@ -63,10 +60,7 @@ Well Finally you can game in MAC OS:)
 https://user-images.githubusercontent.com/42694864/137507289-54dc1e4d-62f2-461f-b3a0-82cbb2a393d7.mp4
 
 
-
-You can DUAL BOOT this OS alongside windows ... everystep remains same just boot via Opencore in boot menu and install MAC in NON-windows installed Drive . (SSD will give you a better experience ) 
-
-
+You have the option to perform a dual boot with this operating system alongside Windows. The steps remain unchanged; just select Opencore in the boot menu and install macOS on a drive without Windows installed. Using an SSD for the installation will provide a smoother experience.
 
 https://user-images.githubusercontent.com/42694864/137507598-5def0d98-ba7f-4381-8800-f35c3500f9b4.mp4
 
@@ -85,5 +79,11 @@ PROPER TREE(For changing serial Number) : https://gitamin-my.sharepoint.com/:f:/
 
 Copy to USB files : https://gitamin-my.sharepoint.com/:f:/g/personal/121810314010_gitam_in/EqaosVFr6-BGnWsZubQKjvkBKAosna_GE-1vSbuXFVJW-A?e=YqYg1V
 
+**Disclaimer:**
 
+This project is intended for educational and experimental purposes and is not intended to promote or endorse Hackintoshing, which may infringe on Apple's terms of service. Users are cautioned that engaging in such activities could lead to legal consequences, and they should be aware of the potential risks involved.
+
+The information provided here is designed for users seeking knowledge and understanding of technology and operating system customization. It is important to respect the intellectual property rights and terms of use established by Apple Inc. Users are strongly encouraged to use macOS only on Apple hardware in compliance with Apple's licensing agreements.
+
+The creators and contributors of this project disclaim any responsibility for misuse or violations of terms by individuals who choose to pursue Hackintosh installations. It is crucial to exercise caution and adhere to legal and ethical considerations when exploring such projects.
 
